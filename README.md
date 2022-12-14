@@ -1,2 +1,2 @@
-# sunbox
-Scripts of solar data!
+# sunboxs
+scripts of solar data!
